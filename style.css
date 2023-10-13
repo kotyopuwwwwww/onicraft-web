@@ -58,6 +58,30 @@ body {
     background: #910000;
 }
 
+.members {
+    display: inline-flex;
+    height: 50px;
+    padding: 0;
+    background: #ffffff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+}
+
+.members:hover {
+    background: #ffffff;
+}
+
+.members:active {
+    background: #ffffff;
+}
+
 .discord {
     display: inline-flex;
     height: 50px;
@@ -88,7 +112,7 @@ body {
     display: inline-flex;
     align-items: center;
     padding: 0 24px;
-    color: #fff;
+    color: #000000;
     height: 100%;
 }
 
