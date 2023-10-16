@@ -10,5 +10,5 @@ https://kotyopuwwwwww.github.io/onicraft-web/
 
 ## Credits
 
-kotyopuwwwwww
+Kotyopuwwwwww and Fuchu GIHON
 
